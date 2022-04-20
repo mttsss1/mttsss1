@@ -1,8 +1,8 @@
 ### Falaaa! Sou o Matteus Custodio
 
-- 🌱 Studying REACT NATIVE. 
-- 📫 Contate-me no email: matteuscustodio17@outlook.com 
-- ⚡ Um dia eu achei que HTML era linguagem de programação!
+[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 <div align="center">
   <a href="https://github.com/mttsss1">
