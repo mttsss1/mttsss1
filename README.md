@@ -1,6 +1,6 @@
 # Matteus Custodio
 
-[![Instagram](https://img.shields.io/badge/@mttsss.RL-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/matteuscustodio.rl/)
+[![Instagram](https://img.shields.io/badge/@matteus.custodio.rl-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/matteuscustodio.rl/)
 [![Linkedin](https://img.shields.io/badge/Matteus_Da_Silva_Custodio-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/matteus-da-silva-custodio-71a549287/)
 [![Outlook](https://img.shields.io/badge/matteuscustodio17@outlook.com-white?style=for-the-badge&logo=microsoft-outlook&logoColor=black)](mailto:matteuscustodio17@outlook.com)
 
