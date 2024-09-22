@@ -1,8 +1,14 @@
 # Matteus Custodio
 
-[![Instagram](https://img.shields.io/badge/@matteus.custodio.rl-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/matteuscustodio.rl/)
-[![Linkedin](https://img.shields.io/badge/Matteus_Da_Silva_Custodio-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/matteus-da-silva-custodio-71a549287/)
-[![Outlook](https://img.shields.io/badge/matteuscustodio17@outlook.com-white?style=for-the-badge&logo=microsoft-outlook&logoColor=black)](mailto:matteuscustodio17@outlook.com)
+<a href="https://www.instagram.com/matteuscustodio.rl/" target="_blank">
+    <img src="https://img.shields.io/badge/@matteus.custodio.rl-white?style=for-the-badge&logo=instagram&logoColor=black&color=rgb(255, 255, 255)&width=100&height=30" alt="Instagram" width="100" height="30" />
+</a>
+<a href="https://www.linkedin.com/in/matteus-da-silva-custodio-71a549287/" target="_blank">
+    <img src="https://img.shields.io/badge/Matteus_Da_Silva_Custodio-white?style=for-the-badge&logo=linkedin&logoColor=black&color=rgb(255, 255, 255)&width=100&height=30" alt="LinkedIn" width="100" height="30" />
+</a>
+<a href="mailto:matteuscustodio17@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/matteuscustodio17@outlook.com-white?style=for-the-badge&logo=microsoft-outlook&logoColor=black&color=rgb(255, 255, 255)&width=100&height=30" alt="Outlook" width="100" height="30" />
+</a>
 
 Passionate about all kinds of technology and a Cypress enthusiast! 💻
 
